@@ -1,4 +1,4 @@
-const 12DaysOfChristmas = {
+const tweleveDaysOfChristmas = {
     day1: "",
     day2: "",
     day3: "",
