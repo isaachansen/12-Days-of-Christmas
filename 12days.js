@@ -1,11 +1,11 @@
-const tweleveDaysOfChristmas = {
+const twelveDaysOfChristmas = {
     day1: "",
     day2: "",
     day3: "",
     day4: "",
-    day5: "",
-    day6: "",
-    day7: "",
+    day5: "golden rings",
+    day6: "geese a slayin'",
+    day7: "swans a swimming",
     day8: "",
     day9: "",
     day10: "",
