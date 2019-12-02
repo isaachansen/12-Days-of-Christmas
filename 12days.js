@@ -1,9 +1,9 @@
 const tweleveDaysOfChristmas = {
     day1: "A bird in a tree?",
-    day2: "",
+    day2: "Pipers piping, I think.",
     day3: "",
     day4: "Who the fuck gives someone a bird in a tree as a gift?",
-    day5: "",
+    day5: "Five golden rings!",
     day6: "",
     day7: "",
     day8: "I mean seriously, that's kinda ridiculous.",
