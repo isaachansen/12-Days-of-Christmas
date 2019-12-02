@@ -11,4 +11,4 @@ const tweleveDaysOfChristmas = {
     day10: "",
     day11: "Eleven pipers piping, ten lords a leaping (Ba ba ba ba ba ba ba oh)",
     day12: "Twelve drummers drumming like Olympus above the Serengeti"
-}
+};
